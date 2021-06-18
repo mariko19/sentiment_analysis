@@ -11,6 +11,7 @@ In this project, I am tasked with
 - creating a Lambda Function and setting up API Gateway for interactions between a user and the deployed model.
 
 The project includes the following files.
+
 `SageMaker Project.ipynb`: creating/ training/ deploying/ testing a sentiment analysis model using PyTorch and SageMaker
 
 `report.html` : An HTML export of the `SageMaker Project.ipynb` file
