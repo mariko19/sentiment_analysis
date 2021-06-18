@@ -12,10 +12,10 @@ In this project, I am tasked with
 
 The project includes the following files.
 
-`SageMaker Project.ipynb`: creating/ training/ deploying/ testing a sentiment analysis model using PyTorch and SageMaker
+`SageMaker Project.ipynb`: creating/ training/ deploying/ testing a sentiment analysis model using PyTorch and SageMaker;
 
-`report.html` : An HTML export of the `SageMaker Project.ipynb` file
+`report.html` : an HTML export of the `SageMaker Project.ipynb` file;
 
-`train.py`, `predict.py`: python files for training and testing the model
+`train.py`, `predict.py`: python files for training and testing the model;
 
-`index.html`: web app
+`index.html`: a simple web app.
